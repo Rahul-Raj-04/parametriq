@@ -1,0 +1,13 @@
+.hide {
+  display: none;
+}
+
+.learn-btnHome:hover {
+  color: #0071dc;
+  font-size: large;
+}
+.slider-image {
+  aspect-ratio: 3/2;
+  object-fit: contain;
+  mix-blend-mode: color-burn;
+}
