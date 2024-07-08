@@ -21,7 +21,7 @@ module.exports = {
     "src/Components/Eroor.jsx",
     "src/Components/Thankyou.jsx",
   ],
-  darkMode: false, // or 'media' or 'class'
+  
   theme: {
     extend: {
       backgroundImage: {
